@@ -3,7 +3,7 @@
 A high-conversion, hero section designed for creative agencies. Built with clean, semantic HTML5 and modern CSS3.
 
 ## ✨ Features
-* **Modern Aesthetics:** Clean typography, glassmorphism effects, and strategic whitespace.
+* **Modern Aesthetics:** Clean typography, and strategic whitespace.
 * **Performance Optimized:** Minimal code footprint for lightning-fast load times.
 * **Easy Customization:** Uses CSS Variables for quick branding updates (colors, fonts).
 
